@@ -5,7 +5,7 @@ I'm **Vitaliy**, a self-taught **junior Frontend Developer** on a mission to bre
 ### 🚀 Tech Stack:
 - 💻 **HTML**, **CSS/SCSS**
 - ⚙️ Currently learning **JavaScript** (painful but rewarding)
-- ⚛️ Up next: **React** (and maybe backend later — who knows?)
+- ⚛️ Up next: **React** 
 
 ### 🛠 What I can do so far:
 - Build responsive layouts with pure HTML + SCSS
@@ -25,7 +25,7 @@ I'm **Vitaliy**, a self-taught **junior Frontend Developer** on a mission to bre
 ### 🚀 Мой текущий стек:
 - 💻 **HTML**, **CSS/SCSS** — уверенно
 - ⚙️ Учусь **JavaScript** (местами больно, но интересно)
-- ⚛️ Дальше в планах — **React** (а потом и бэкенд подмигивает)
+- ⚛️ Дальше в планах — **React** 
 
 ### 🛠 Что уже умею:
 - Верстаю адаптивные сайты на HTML + SCSS
